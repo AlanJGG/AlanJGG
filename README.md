@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Alan, passionate about technology and currently pursuing studies in Software Development. With a strong aptitude for problem-solving and a collaborative spirit, I thrive in team environments where I can contribute and learn from others. My enthusiasm lies in personal growth and continuous learning, which drives my dedication to mastering new skills and technologies. I aspire to leverage my technical knowledge and teamwork skills to create impactful solutions in the software development field.
 <!--
 **AlanJGG/AlanJGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
