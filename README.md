@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-joseph-g)](https://www.linkedin.com/in/alan-joseph-g)
 [![Gmail Badge](https://img.shields.io/badge/-alanjguzmangutierrez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanjguzmangutierrez@gmail.com)](mailto:alanjguzmangutierrez@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-702963?style=flat-square&logo=appveyor&logoColor=white&link=https://alanjgg.github.io/my-portfolio/)](https://alanjgg.github.io/my-portfolio/)
+[![Website Badge](https://img.shields.io/badge/-Website-702963?style=flat-square&logo=appveyor&logoColor=white&link=https://[alanjgg.github.io/my-portfolio/](https://alanguzman.me))]([https://alanjgg.github.io/my-portfolio/](https://alanguzman.me))
 
 ### About Me
 
@@ -9,7 +9,7 @@ I'm Alan, passionate about technology and currently pursuing studies in Software
 📫 You can reach me on:
 - Email: alanjguzmangutierrez@gmail.com
 - Linkedin: https://www.linkedin.com/in/alan-joseph-g
-- Website: https://alanjgg.github.io/my-portfolio/
+- Website: https://alanguzman.me
 
 ### Programming Languages
 * Javascript/Typescript
