@@ -14,13 +14,13 @@ I'm Alan, passionate about technology and currently pursuing studies in Software
 ### Programming Languages
 * Javascript/Typescript
 * Python
-* C
+* C/C++
   
 ### Technologies and frameworks
 * **Front end**: React, NextJs.
 * **Mobile**: React Native.
 * **Back end**: Express, NodeJs, NestJS.
-* **Database**: MySql, SQLite, MongoDB.
+* **Database**: MySql, SQLite, MongoDB, PostgreSQL.
 * **Testing**: Jest.
 * **Build**: Babel, Webpack, Docker, Kubernetes.
 ___
